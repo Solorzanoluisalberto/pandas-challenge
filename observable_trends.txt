@@ -2,5 +2,7 @@ Description of observable trends based on the data.
 I perceive the following from the PyCitySchools dataset:
 1) Of the 15 schools presented and distributing them by size, according to number of students, medium schools (1000-2000) and small (<1000), have better academic performance in both mathematics and reading, being above 84%
 2) Grouping the data by% overall passing, we note that in the main 5 schools, 100% of them are Charter type, suggesting this type of schools may be a better option for parents looking for a school for their children
+3) small and medium schools manage less budget per student, which makes them more efficient in terms of student achievement and invested resources
+4) There is a very significant difference between (% Overall Passing District) and (% overall Passing Charter), this difference exceeds 40 percentage points, this suggests including more indicators that allow evaluating the methodology of teaching or the academic progress of the student
 
 Luis Solorzano
